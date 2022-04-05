@@ -23,6 +23,6 @@ under submittion to Interspeech 2020\\
 
 <a style="text-decoration:none" href="https://arxiv.org/abs/2103.08265">Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy</a>
 ===
-**Bronya Roni Chernyak**, Bhiksha Raj, Tamir Hazan, Joseph Keshet.
+**Bronya Roni Chernyak**, Bhiksha Raj, Tamir Hazan, Joseph Keshet.\\
 Workshop of RobustML ICLR 2021\\
 [PDF](https://arxiv.org/pdf/2103.08265.pdf)
