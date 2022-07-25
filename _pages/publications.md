@@ -18,7 +18,7 @@ author_profile: true
 <a style="text-decoration:none" href="https://arxiv.org/abs/2203.17019">DeepFry: Identifying Vocal Fry Using Deep Neural Networks</a>
 ===
 **Bronya Roni Chernyak**, Talia Ben Simon, Yael Segal, Jeremy Steffman, Eleanor Chodroff, Jennifer S. Cole, Joseph Keshet\\
-under submittion to Interspeech 2020\\
+Interspeech 2020\\
 [PDF](https://arxiv.org/pdf/2203.17019.pdf)
 
 <a style="text-decoration:none" href="https://arxiv.org/abs/2103.08265">Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy</a>
