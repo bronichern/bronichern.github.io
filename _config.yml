@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sIBKlU8AAAAJ&hl=en"
   email            : "chernroni@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  medium           : "@chernroni"
 
 
 # Reading Files
