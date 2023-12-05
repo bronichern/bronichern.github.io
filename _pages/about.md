@@ -10,7 +10,7 @@ redirect_from:
 About me
 ===
  I am a Ph.D. candidate at the faculty of Eatctrical & Computer Engineering of the Technion under the supervision of [Prof. Joseph Keshet](https://u.cs.biu.ac.il/~jkeshet/).\
-  My research interests are in machine-learning and deep-learning —specifically, the security of algorithms, their interpretability, and applications in the domain of speech.
+  My research interests are in machine learning and deep learning, specifically in their applications to speech processing and recognition. Recently, I have been working on handling out-of-distribution signals and utilizing represenation of self-supervised learning models for different applications.
  
 
 <br/>    
