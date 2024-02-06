@@ -22,17 +22,25 @@ About me
 {% include base_path %}
 Publications
 =====
-<!-- * [Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy](https://arxiv.org/abs/2103.08265). Bronya Roni Chernyak, Bhiksha Raj, Tamir Hazan, Joseph Keshet. Code.
-* [DeepFry: Identifying Vocal Fry Using Deep Neural Networks](https://arxiv.org/abs/2203.17019).. Bronya Roni Chernyak, Talia Ben Simon, Yael Segal, Jeremy Steffman, Eleanor Chodroff, Jennifer S. Cole, Joseph Keshet -->
+ <a  class="about-pub">“Uncertainty Modeling for Out-of-Distribution Generalization with Patches in the domain of speech,”</a><br/>
+ **Bronya R. Chernyak**, Yael Segal, Yosi Shrem and Joseph Keshet,<br/> 
+ Interspeech 2024 (under submission).<br/>
 
-<!-- [DeepFry: Identifying Vocal Fry Using Deep Neural Networks](https://arxiv.org/abs/2203.17019).\ -->
-<a  class="about-pub" href="https://arxiv.org/abs/2203.17019">DeepFry: Identifying Vocal Fry Using Deep Neural Networks</a><br/>
+<a  class="about-pub">“A perceptual similarity space for first- and second-language speech based on self- supervised speech representations,”</a><br/>
+**Bronya Roni Chernyak**, Ann R. Bradlow, Joseph Keshet, and Matthew Goldrick<br/> Journal of the Acoustical Society of America 2024 (under review).<br/>
+
+
+<a  class="about-pub">“Automatic recognition of second language speech-in-noise”</a><br/>
+Seung-Eun Kim, **Bronya R. Chernyak**, Olga Seleznova, Joseph Keshet, Matthew Goldrick, and Ann R. Bradlow<br/>
+The Journal of the Acoustical Society of America 2024 (accepted for publication).<br/>
+
+<a  class="about-pub" href="https://arxiv.org/abs/2203.17019">“DeepFry: Identifying Vocal Fry Using Deep Neural Networks”</a><br/>
 **Bronya Roni Chernyak**, Talia Ben Simon, Yael Segal, Jeremy Steffman, Eleanor Chodroff, Jennifer S. Cole, Joseph Keshet<br/>
 Interspeech 2022.<br/>
 [PDF](https://arxiv.org/pdf/2203.17019.pdf) [code](https://github.com/bronichern/DeepFry/) [blog](https://medium.com/@chernroni/deepfry-deep-neural-networks-algorithms-for-identifying-vocal-fry-26725423401b)
 
 <!-- [Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy](https://arxiv.org/abs/2103.08265). -->
-<a  class="about-pub" href="https://arxiv.org/abs/2103.08265">Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy.</a><br/>
+<a  class="about-pub" href="https://arxiv.org/abs/2103.08265">“Constant Random Perturbations Provide Adversarial Robustness with Minimal Effect on Accuracy.”</a><br/>
 **Bronya Roni Chernyak**, Bhiksha Raj, Tamir Hazan, Joseph Keshet.<br/>
 Workshop of RobustML ICLR 2021.<br/>
 [PDF](https://arxiv.org/pdf/2103.08265.pdf) [code](https://github.com/MLSpeech/CRP)
