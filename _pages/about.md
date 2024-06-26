@@ -27,12 +27,12 @@ Publications
  Interspeech 2024 (under submission).<br/>
 
 <a  class="about-pub">“A perceptual similarity space for first- and second-language speech based on self- supervised speech representations,”</a><br/>
-**Bronya Roni Chernyak**, Ann R. Bradlow, Joseph Keshet, and Matthew Goldrick<br/> Journal of the Acoustical Society of America 2024 (under review).<br/>
+**Bronya Roni Chernyak**, Ann R. Bradlow, Joseph Keshet, and Matthew Goldrick<br/>Journal of the Acoustical Society of America, 155, 3915-3929.<br/>
 
 
 <a  class="about-pub">“Automatic recognition of second language speech-in-noise”</a><br/>
 Seung-Eun Kim, **Bronya R. Chernyak**, Olga Seleznova, Joseph Keshet, Matthew Goldrick, and Ann R. Bradlow<br/>
-The Journal of the Acoustical Society of America 2024 (accepted for publication).<br/>
+JASA Express Letters 4 (2), 2024.<br/>
 
 <a  class="about-pub" href="https://arxiv.org/abs/2203.17019">“DeepFry: Identifying Vocal Fry Using Deep Neural Networks”</a><br/>
 **Bronya Roni Chernyak**, Talia Ben Simon, Yael Segal, Jeremy Steffman, Eleanor Chodroff, Jennifer S. Cole, Joseph Keshet<br/>
